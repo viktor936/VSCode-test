@@ -1,0 +1,14 @@
+header {
+  font-size: 35px;
+}
+
+body {
+  font-size: 30px;
+}
+
+body p {
+  font-size: 20px;
+  color: red;
+  background: yellow;
+}
+/*# sourceMappingURL=style.css.map */
